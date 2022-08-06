@@ -7,7 +7,7 @@
 - Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
+- LeetCode: https://leetcode.com/Abhinandan000/
 - HackerRank: https://www.hackerrank.com/abhinandan_19231
 
 ## Placement Module
